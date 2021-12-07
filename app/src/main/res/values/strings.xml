@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="tab1">first tab</string>
+    <string name="tab2">second tab</string>
+    <string name="tab3">third tab</string>
+    <string name="tab4">fourth tab</string>
+</resources>
